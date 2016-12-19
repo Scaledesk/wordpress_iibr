@@ -23,7 +23,7 @@
 define('DB_NAME', 'asm');
 
 /** MySQL database username */
-define('DB_USER', 'sitesh');
+define('DB_USER', 'nitesh');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'q1w2e3r4');
